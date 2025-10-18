@@ -1,12 +1,12 @@
 baseURL = 'https://avd151.github.io/csblog/'
 languageCode = 'en-us'
-title = 'Computer Science Blog'
+title = 'Exploring Computer Science'
 theme = 'aether'
 
 [params]
-description = "Blog to share my learnings in Computer Science, Software Development and Machine Learning"
+description = "Blog to document my learnings in Computer Science and Software Engineering"
 github = "https://github.com/avd151"
-linkedin = "https://linkedin.com/in/avd151"
+linkedin = "https://linkedin.com/in/apurva151"
 
 [markup]
   [markup.highlight]
